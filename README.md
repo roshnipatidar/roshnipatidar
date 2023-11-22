@@ -19,7 +19,9 @@ Here are some of the programming languages and tools I'm familiar with:
 - **Web Scraping**: Beautiful Soup,Selenium
 
 ## Connect with Me
-Let's connect and learn from each other! You can find me on LinkedIn at [linkedin.com/in/roshni-patidar-1555841b3](https://www.linkedin.com/in/roshni-patidar-1555841b3). Feel free to send me a connection request or a message. I'd love to network with fellow data enthusiasts and professionals.
+Let's connect and learn from each other! You can find me on LinkedIn at [linkedin.com/in/roshni-patidar-1555841b3](https://www.linkedin.com/in/roshni-patidar-1555841b3). 
+Feel free to send me a connection request or a message. 
+I'd love to network with fellow data enthusiasts and professionals.
 
 Happy coding and data analyzing! 🚀
 
